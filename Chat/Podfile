@@ -1,0 +1,10 @@
+platform :ios, '12.0'
+
+target 'Chat' do
+  use_frameworks!
+
+  # Pods for Chat
+  
+  pod 'IQKeyboardManagerSwift', '6.3.0'
+  
+end
