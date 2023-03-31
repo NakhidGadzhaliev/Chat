@@ -7,6 +7,8 @@ Chat - это мобильное приложение для обмена соо
 
 ![Screenshot](https://github.com/NakhidGadzhaliev/Chat/blob/main/Авторизация.png)
 
+<img src="/NakhidGadzhaliev/Chat/blob/main/Авторизация.png" width="500">
+
 Установка
 
 Для запуска приложения вам потребуется установить Xcode на свой компьютер. Откройте Chat.xcodeproj в Xcode и запустите приложение.
