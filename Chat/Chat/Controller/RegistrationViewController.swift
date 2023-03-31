@@ -8,7 +8,7 @@
 import UIKit
 import Firebase
 
-class RegistrationViewController: UIViewController {
+class RegistrationViewController: UIViewController, UITextFieldDelegate {
     
     lazy var emailTF = EmailTFView(frame: .zero)
     lazy var passwordTF = PasswordTFView(frame: .zero)
@@ -53,12 +53,6 @@ extension RegistrationViewController {
     
 }
 
-
-
-
-extension RegistrationViewController: UITextFieldDelegate {
-    
-}
 
 
 

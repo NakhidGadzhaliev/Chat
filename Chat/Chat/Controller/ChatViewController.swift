@@ -167,7 +167,6 @@ extension ChatViewController {
     
     private func tableViewUpdate() {
         tableView.dataSource = self
-        
     }
     
     private func viewUpdate() {

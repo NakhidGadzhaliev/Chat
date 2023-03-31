@@ -29,8 +29,7 @@ class LoginViewController: UIViewController {
         viewSetup()
         setupConstraints()
         loginSetup()
-        emailTF.text = "1@mail.ru"
-        passwordTF.text = "123456"
+        
     }
     
 }
